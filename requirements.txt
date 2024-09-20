@@ -1,7 +1,7 @@
 streamlit
-numpy
+numpy>=1.23
 pandas
-lifelines
+lifelines==0.26.0
 matplotlib
 openpyxl
 scikit-learn
