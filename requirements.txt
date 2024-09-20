@@ -5,3 +5,4 @@ lifelines
 matplotlib
 openpyxl
 scikit-learn
+scipy>=1.10
